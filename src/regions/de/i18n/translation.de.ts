@@ -20,7 +20,10 @@ export default {
     title: 'COVID-19: Was Sie wissen müssen',
     description:
       'Erhalten Sie genaue Informationen von öffentlichen, vertrauenswürdigen Quellen über die Atemwegserkrankung COVID-19, basierend auf Ihrer individuellen Lebenssituation.',
-    button: 'Es kann losgehen'
+    button: 'Es kann losgehen',
+    previousRunLink: 'Neueste Informationen für Ihre letzte Sitzung anzeigen',
+    previousRunExpired:
+      'Die Antworten aus der letzten Sitzung sind abgelaufen. Bitte starten Sie einen neuen Chat, um aktuelle Informationen zu erhalten.'
   },
   classes: {
     common: 'Allgemeine Informationen',
