@@ -10,7 +10,7 @@ import Footer from 'components/footer'
 import Title from 'components/title'
 import ShareResults from 'components/share-results'
 import ScrollAnchor from 'components/scroll-anchor'
-import CtaButtonLink from 'components/cta-button-link'
+import { CtaButtonLink } from 'components/buttons'
 
 const useQuery = () => {
   const location = useLocation()
